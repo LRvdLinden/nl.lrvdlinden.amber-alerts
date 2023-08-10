@@ -1,0 +1,66 @@
+{
+  "id": "nl.lrvdlinden.amber-alert",
+  "version": "1.0.1",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Amber Alert",
+    "nl": "Amber Alert"
+  },
+  "description": {
+    "nl": "Actuele Amber Alerts uit heel Nederland.",
+    "en": "Up-to-date Amber Alerts in The Netherlands."
+  },
+  "brandColor": "#ed6d22",
+  "category": "internet",
+  "class": "rss",
+  "tags": {
+    "en": ["internet", "news", "nos", "nu.nl", "rss", "amber", "alert", "missing", "child" ],
+    "nl": ["internet", "nieuws", "nos", "nu.nl", "rss", "amber", "alert", "missing", "child" ]
+  },
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"  
+  },
+  "author": {
+    "name": "Léon van der Linden",
+    "email": "homey@vdlinden.xyz"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Menno van Hout",
+        "email": "info@mennovanhout.nl"
+      }
+    ],
+    "translators": [
+      {
+        "name": "🇬🇧 Léon"
+      },
+      {
+        "name": "🇳🇱 Léon"
+      }
+    ]
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "lrvdlinden"
+      },
+      "bunq": {
+        "username": "lrvdlinden"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://community.homey.app/t/app-pro-amber-alert-for-homey/85936"
+  },
+  "homepage": "https://shor.by/LRvdLinden",
+  "support": "https://community.homey.app/t/app-pro-amber-alert-for-homey/85936",
+  "homeyCommunityTopicId": 85936
+}
