@@ -32,12 +32,6 @@
     "email": "homey@vdlinden.xyz"
   },
   "contributors": {
-    "developers": [
-      {
-        "name": "Menno van Hout",
-        "email": "info@mennovanhout.nl"
-      }
-    ],
     "translators": [
       {
         "name": "🇬🇧 Léon"
@@ -60,7 +54,7 @@
   "bugs": {
     "url": "https://community.homey.app/t/app-pro-amber-alert-for-homey/85936"
   },
-  "homepage": "https://shor.by/LRvdLinden",
+  "homepage": "https://homey.app/nl-nl/apps/author/5d4da77a2c836a50f6936070/page/0/",
   "support": "https://community.homey.app/t/app-pro-amber-alert-for-homey/85936",
   "homeyCommunityTopicId": 85936
 }
